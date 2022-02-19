@@ -1,8 +1,0 @@
-{
- "ip": "Fsurvive.ploudos.me",
- "port": "11605",
- "name": "afkbot",
- "auto-night-skip": "true",
- "loginmsg": "Server Is Now Always Online"
-
-}
